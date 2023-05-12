@@ -1,0 +1,27 @@
+body
+{
+    background-image: url("https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29tcHV0ZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    text-emphasis: none;
+    color: aliceblue;
+    font-size: 20px;
+}
+i{
+    margin-left: 10px;
+    margin-right: 10px;
+}
